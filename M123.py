@@ -1,1 +1,1 @@
-M123
+print("E0wZs PhOwZ")
