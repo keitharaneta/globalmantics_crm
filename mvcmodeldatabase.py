@@ -7,7 +7,8 @@ class Database:
     def output(self, acctid):
         result = self.jsonfile2[acctid]
         if result:
-            return int(result['sample2']) - int(result['sample1'])
+            test1 = float(result['sample2']) - float(result['sample1'])
+            return "USD {test1:.2f}".format(test1=test1)
         return None
 
 

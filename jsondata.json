@@ -1,0 +1,10 @@
+{
+  "ACCT100": {
+    "sample1": 100,
+    "sample2": 200
+  },
+  "ACCT200": {
+    "sample3": 250,
+    "sample4": 478
+  }
+}
