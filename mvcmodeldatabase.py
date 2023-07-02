@@ -15,3 +15,5 @@ class Database:
 if __name__ == '__main__':
     x = Database('jsondata.json')
     print(x.output('ACCT100'))
+
+# MIC TEST
